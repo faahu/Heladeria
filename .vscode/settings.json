@@ -1,7 +1,8 @@
 {
-    "liveshare.sharedTerminalWidth": 1200,
+    "liveshare.sharedTerminalWidth": 12000000,
     "liveshare.sharedTerminalHeight": 500,
     "liveshare.nameTagVisibility": "Always",
     "liveshare.allowGuestTaskControl": true,
-    "liveServer.settings.port": 5501
+    "liveServer.settings.port": 5501,
+    "liveshare.keepAliveInterval": 20000000
 }
