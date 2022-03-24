@@ -243,7 +243,7 @@ header .intro-text {
 	padding: 80px 0;
 }
 #about .about-img {
-	background: #444 url(../img/gallery-bg.jpg) center center no-repeat;
+	background: #444 url(../img/laros.jpg) center center no-repeat;
 	background-size: cover;
 	height: 570px;
 }
@@ -277,6 +277,7 @@ header .intro-text {
 	color: #444;
 	margin: 20px 0;
 	text-align: center;
+	
 }
 #restaurant-menu .menu-item {
 	margin: 45px 0;
@@ -292,6 +293,10 @@ header .intro-text {
 	font-size: 15px;
 	width: 85%;
 }
+
+#menu-section-title {
+	color: #8eb640;
+}
 #restaurant-menu .menu-item-price {
 	float: right;
 	font-weight: 400;
@@ -305,6 +310,12 @@ header .intro-text {
 #gallery .gallery-item {
 	margin: 0 -15px;
 }
+
+#menu-section {
+	background-color: #8eb640;
+}
+
+
 /* Team Section */
 #team {
 	padding: 120px 0;
